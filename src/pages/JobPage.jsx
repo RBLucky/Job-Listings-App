@@ -7,7 +7,7 @@ const JobPage = ({ deleteJob }) => {
   const job = useLoaderData();
 
   const onDeleteClick = (jobId) => {
-    const confirm = window.confirm('THis action is irreversible! Are you sure you want to delete this listing?')
+    const confirm = window.confirm('This action is irreversible! Are you sure you want to delete this listing?')
 
     if (!confirm) return;
 

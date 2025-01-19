@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "012-345-6789"
       }
-    },
-    {
-      "id": "d10a",
-      "title": "Test Job",
-      "type": "Full-Time",
-      "location": "Testania",
-      "description": "This is a test.",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Test Corp.",
-        "description": "The best test in the game",
-        "contactEmail": "test@test.com",
-        "contactPhone": "123"
-      }
     }
   ]
 }
